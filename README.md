@@ -1,8 +1,8 @@
-# Car-scrap-price
+<h2> Car-scrap-price </h2>
 Exploratory data Analysis and Regression models are constructed to predict scrap value of cars
 
 
-### Libraries Used Majorly
+</h4> Libraries Used Majorly </h4>
 
 <ol>
 <li>pandas</li>
@@ -13,7 +13,7 @@ Exploratory data Analysis and Regression models are constructed to predict scrap
 <li>Flask</li>
 </ol>
 
-### Softwares and Tools
+<h4> Softwares and Tools </h4>
 
 1. [Github](https://github.com/)
 2. [VScode](https://code.visualstudio.com/download)
