@@ -29,3 +29,6 @@
 1. [Github](https://github.com/)
 2. [GitCLI](https://git-scm.com/downloads)
 
+![7](https://user-images.githubusercontent.com/110568431/231305265-f865d738-e4b6-4153-8e8d-2cc4fea844e9.PNG)
+![1](https://user-images.githubusercontent.com/110568431/231305292-880736db-c0f5-4067-9819-9baaf3ebafcd.PNG)
+![6](https://user-images.githubusercontent.com/110568431/231305354-377b581c-991f-44f4-bdd3-43f4e78fbf44.PNG)
