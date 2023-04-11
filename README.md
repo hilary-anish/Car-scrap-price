@@ -1,5 +1,16 @@
 <h2> Car-scrap-price </h2>
-Exploratory data Analysis and Regression models are constructed to predict scrap value of cars
+
+<ul>
+<li>Data Cleaning is Performed on the data for better analysis</li>
+<li>Exploratory data Analysis has been conducted on the data to obtain insghts </li>
+<li>Handling imbalance in the data</li>
+<li>Pre-Processing of the numerical and categorical features are performed</li>
+<li>Regression models are constructed to predict scrap value of cars</li>
+<li>Various Regression models are compared</li>
+<li>Random-Forest regression found to perform well for the dataset</li>
+<li>Flask is used to create API for price prediction by the User</li>
+</ul>
+
 
 
 </h4> Libraries Used Majorly </h4>
@@ -16,5 +27,5 @@ Exploratory data Analysis and Regression models are constructed to predict scrap
 <h4> Softwares and Tools </h4>
 
 1. [Github](https://github.com/)
-2. [VScode](https://code.visualstudio.com/download)
-3. [GitCLI](https://git-scm.com/downloads)
+2. [GitCLI](https://git-scm.com/downloads)
+
